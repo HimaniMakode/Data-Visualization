@@ -7,4 +7,4 @@ This bar chart is constructed from a json file storing the number of different p
     d3.max - compute domains
     d3.keys - compute column names
     d3.svg.axis - display axes
-
+![barchart](https://user-images.githubusercontent.com/44784856/56768860-557a9c00-6764-11e9-93a3-5293e12b5cc0.JPG)
